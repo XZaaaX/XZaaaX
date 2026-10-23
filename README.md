@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/h5gifv.svg" alt="Afrizaaa hero" />
+  <img src="https://files.catbox.moe/2gj0hu.svg" alt="Afrizaaa hero" />
 </p>
 
 <p align="center"><b>Afrizaaa</b> · Frontend or full-stack engineer<br/><sub>Ρίζκυ Αφρίζα</sub></p>
