@@ -1,67 +1,30 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2gj0hu.svg" alt="Afrizaaa hero" />
+  <img src="./hero_final.gif" width="860" alt="Afrizaaa hero">
 </p>
-
-<p align="center"><b>Afrizaaa</b> · Frontend or full-stack engineer<br/><sub>Ρίζκυ Αφρίζα</sub></p>
-
-<p align="center"><a href="https://github.com/xzaaax">GitHub</a></p>
-
-<details open>
-<summary><b>Top projects</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ctpp7m.svg" alt="Afrizaaa projects" />
+  <img src="./sec-projects-gold.svg" width="860" alt="Projects">
 </p>
-
-- [E-Commerce-Sales-Customer-Analytics](https://github.com/XZaaaX/E-Commerce-Sales-Customer-Analytics) · ★ 0
-- [walmart-weekly-sales-forecasting](https://github.com/XZaaaX/walmart-weekly-sales-forecasting) · ★ 0
-- [Prediction-Rice](https://github.com/XZaaaX/Prediction-Rice) · ★ 0
-- [Deploy_And_Monitoring](https://github.com/XZaaaX/Deploy_And_Monitoring) · ★ 0 — Sebuah contoh sangat amat sederhana dari Deploy & Monitoring
-- [XZaaaX](https://github.com/XZaaaX/XZaaaX) · ★ 0
-
-</details>
-
-<details>
-<summary><b>Stack</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://files.catbox.moe/7act6o.svg" alt="Afrizaaa stack" />
+  <img src="./sec-stack-gold.svg" width="860" alt="Language stack">
 </p>
-
-</details>
-
-<details>
-<summary><b>By the numbers</b></summary>
-<br/>
-
-<b>5</b> public repositories, <b>0</b> stars, <b>14</b> contributions in the last year, a longest streak of <b>1</b> days and <b>1</b> followers.
 
 <p align="center">
-  <img src="https://files.catbox.moe/0kwabt.svg" alt="Afrizaaa stats" />
+  <img src="./sec-stats-gold.svg" width="860" alt="Profile signal">
 </p>
-
-</details>
-
-<details>
-<summary><b>Activity</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ykjdgs.svg" alt="Afrizaaa activity" />
+  <img src="./sec-heatmap-gold.svg" width="860" alt="Contribution activity">
 </p>
-
-</details>
-
-<details>
-<summary><b>Say hello</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://files.catbox.moe/rtcban.svg" alt="Afrizaaa social" />
+  <img src="./sec-social-gold.svg" width="860" alt="Socials">
 </p>
 
-</details>
-
-<p align="center"><sub>Afrizaaa · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <a href="https://medium.com/@aoihina90">Medium</a> ·
+  <a href="https://github.com/xzaaax">GitHub</a> ·
+  <a href="https://www.quora.com/profile/KimiMaruVip">Quora</a> ·
+  <a href="https://id.linkedin.com/in/rizky-afriza">LinkedIn</a>
+</p>
