@@ -18,13 +18,4 @@
   <img src="./sec-heatmap-gold.svg" width="860" alt="Contribution activity">
 </p>
 
-<p align="center">
-  <img src="./sec-social-gold.svg" width="860" alt="Socials">
-</p>
-
-<p align="center">
-  <a href="https://medium.com/@aoihina90">Medium</a> ·
-  <a href="https://github.com/xzaaax">GitHub</a> ·
-  <a href="https://www.quora.com/profile/KimiMaruVip">Quora</a> ·
-  <a href="https://id.linkedin.com/in/rizky-afriza">LinkedIn</a>
-</p>
+<p align="center"><a href="https://medium.com/@aoihina90"><img src="./social-medium.svg" width="230" height="126" alt="Medium"></a><a href="https://github.com/xzaaax"><img src="./social-github.svg" width="198" height="126" alt="GitHub"></a><a href="https://www.quora.com/profile/KimiMaruVip"><img src="./social-quora.svg" width="198" height="126" alt="Quora"></a><a href="https://id.linkedin.com/in/rizky-afriza"><img src="./social-linkedin.svg" width="234" height="126" alt="LinkedIn"></a></p>
