@@ -18,4 +18,4 @@
   <img src="./sec-heatmap-gold.svg" width="860" alt="Contribution activity">
 </p>
 
-<p align="center"><a href="https://medium.com/@aoihina90"><img src="./social-medium.svg" width="230" height="126" alt="Medium"></a><a href="https://github.com/xzaaax"><img src="./social-github.svg" width="198" height="126" alt="GitHub"></a><a href="https://www.quora.com/profile/KimiMaruVip"><img src="./social-quora.svg" width="198" height="126" alt="Quora"></a><a href="https://id.linkedin.com/in/rizky-afriza"><img src="./social-linkedin.svg" width="234" height="126" alt="LinkedIn"></a></p>
+<p align="center"><a href="https://medium.com/@aoihina90"><img src="./social-medium.svg" width="214" height="117" alt="Medium"></a><a href="https://github.com/xzaaax"><img src="./social-github.svg" width="184" height="117" alt="GitHub"></a><a href="https://www.quora.com/profile/KimiMaruVip"><img src="./social-quora.svg" width="184" height="117" alt="Quora"></a><a href="https://id.linkedin.com/in/rizky-afriza"><img src="./social-linkedin.svg" width="218" height="117" alt="LinkedIn"></a></p>
