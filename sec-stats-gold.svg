@@ -99,15 +99,15 @@
     </g><g class="aura-chip" style="animation-delay:100ms">
       <rect x="238" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#e0a53a" stroke-opacity="0.72"/>
       <text x="260" y="126" font-family="SpaceGrotesk,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#8b949e">Contributions</text>
-      <text x="260" y="166" font-family="SpaceGrotesk,sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#a855f7">19</text>
+      <text x="260" y="166" font-family="SpaceGrotesk,sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#a855f7">24</text>
       <rect x="260" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
       <rect class="aura-bar" x="260" y="186" width="136" height="7" rx="3.5" fill="#a855f7" opacity="0.9"/>
     </g><g class="aura-chip" style="animation-delay:200ms">
       <rect x="442" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#e0a53a" stroke-opacity="0.72"/>
       <text x="464" y="126" font-family="SpaceGrotesk,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#8b949e">Repos</text>
-      <text x="464" y="166" font-family="SpaceGrotesk,sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#3b82f6">5</text>
+      <text x="464" y="166" font-family="SpaceGrotesk,sans-serif" font-size="35" font-weight="900" letter-spacing="-0.8" fill="#3b82f6">6</text>
       <rect x="464" y="186" width="136" height="7" rx="3.5" fill="rgba(255,255,255,0.1)"/>
-      <rect class="aura-bar" x="464" y="186" width="36" height="7" rx="3.5" fill="#3b82f6" opacity="0.9"/>
+      <rect class="aura-bar" x="464" y="186" width="34" height="7" rx="3.5" fill="#3b82f6" opacity="0.9"/>
     </g><g class="aura-chip" style="animation-delay:300ms">
       <rect x="646" y="92" width="180" height="122" rx="18" fill="rgba(8,8,12,0.5)" stroke="#e0a53a" stroke-opacity="0.72"/>
       <text x="668" y="126" font-family="SpaceGrotesk,sans-serif" font-size="12" font-weight="800" letter-spacing="1.4" fill="#8b949e">Followers</text>
